@@ -1,0 +1,30 @@
+- profile:
+  initials: BT
+  name: Bilal Tariq
+  email: bilaltariq690@hotmail.com
+  profession: Software Engineer
+  image: images/profile.jpg
+  location: Luton, United Kingdom
+  relocation: false
+  company: Red Badger
+  for_hire: false
+  focus: Making software that people love to use.
+  focus_url: https://bilaltariq.tech
+  about: |
+    Software engineer with 5+ years experience in commercial full-stack application development.
+
+    Worked across various domains (Finance, Public Sector and Education) using a variety of languages and frameworks along the way.
+
+    See my Linkedin website for more information.
+  skills:
+    - JavaScript
+    - DevOps
+    - Kubernetes
+  tools:
+    - React
+    - GraphQL
+  budget:
+    currency: £
+    min: 0
+    max: 0
+    default: 0

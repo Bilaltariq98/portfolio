@@ -1,0 +1,19 @@
+- name: Showambi
+  url: https://devpost.com/software/showambi
+  description: Phillips hue reacting to music and recognizing the genre being played and adjusting colors accordingly -Ace Of Hearts
+  status: live
+  tags:
+    - python
+    - node.js
+    - sql
+  icon: website
+
+- name: Amplifyr.org
+  url: https://devpost.com/software/amplifyr-org
+  description: An web app that can enable any internet connected devices to play songs simultaneously amplifying the sound.
+  status: live
+  tags:
+    - JS
+    - AWS
+    - PusherAPI
+  icon: website
