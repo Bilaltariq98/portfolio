@@ -8,7 +8,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    description: "Personal page of Bilal Tariq",
+    description: "Bilal Tariq's Portfolio - SWE @ Red Badger",
     locale: "en",
     title: "Bilal Tariq",
     formspreeEndpoint: "https://formspree.io/f/mqknygbl"
