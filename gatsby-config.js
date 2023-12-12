@@ -8,7 +8,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    description: "Bilal Tariq's Portfolio - SWE @ Red Badger",
+    description: "Bilal Tariq - Freelance Software Engineer",
     locale: "en",
     title: "Bilal Tariq",
     formspreeEndpoint: "https://formspree.io/f/mqknygbl"
