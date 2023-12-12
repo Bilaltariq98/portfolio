@@ -23,6 +23,7 @@
   tools:
     - React
     - GraphQL
+    - Node.js
   budget:
     currency: £
     min: 0
