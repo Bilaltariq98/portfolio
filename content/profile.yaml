@@ -2,15 +2,16 @@
   initials: BT
   name: Bilal Tariq
   email: xkcd@bilaltariq.tech
-  profession: Senior Software Engineer
+  profession: Freelance Senior Software Engineer
   image: images/profile.jpg
   location: Luton, United Kingdom
   relocation: false
   company: BT Software Consultancy
   for_hire: true
   focus: Making software that people love to use.
+  focus_url: https://www.bilaltariq.tech
   about: |
-    Software engineer with 8+ years experience in commercial full-stack application development.
+    Freelance Senior Software engineer with 8+ years experience in commercial full-stack application development.
 
     Worked across various domains (Finance, Public Sector and Education) using a variety of languages and frameworks along the way.
 
