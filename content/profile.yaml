@@ -2,28 +2,28 @@
   initials: BT
   name: Bilal Tariq
   email: xkcd@bilaltariq.tech
-  profession: Freelance Senior Software Engineer
+  profession: Senior Software Engineer
   image: images/profile.jpg
   location: Luton, United Kingdom
   relocation: false
-  company: BT Software Consultancy
+  company: Red Badger
   for_hire: true
   focus: Making software that people love to use.
   focus_url: https://atomicdesign.bradfrost.com/
   about: |
-    Freelance Senior Software engineer with 8+ years experience in commercial full-stack application development.
+    Senior Software engineer with 10 years experience in commercial full-stack application development.
 
     Worked across various domains (Finance, Public Sector and Education) using a variety of languages and frameworks along the way.
 
     See my Linkedin website for more information.
   skills:
-    - JavaScript
+    - TypeScript
+    - Rust
     - DevOps
-    - Kubernetes
   tools:
-    - React
-    - GraphQL
-    - Node.js
+    - Docker
+    - Kubernetes
+    - Terraform
   budget:
     currency: £
     min: 0
